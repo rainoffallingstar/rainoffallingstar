@@ -27,24 +27,22 @@ Wish you a good-looking profile README!
 
 -->
 
-### Hi there 👋  
-
-#### Hi，我是Yanhua Zheng,每日往来科研数据代码之间，试错不止。
+### Hi there 👋 ,我是Yanhua Zheng,每日往来科研数据代码之间，试错不止。
 
 - :briefcase: Low level Coder,interest in deeplearning,machine learning and shinyApps<br/>
 - :pencil2: R/Shell/Python<br/>
 - :hammer_and_wrench: Docker/Podman/Rstudio/VS Code/GitHub Action<br/>
 - :hearts: The Art of Zeteng/Slasher<br/>
 - :email: zyh3084989256@gmail.com<br/>
-
-#### 📈 一点微小的工作
+---
+#### 📈 一点微小的工作,绘光影于IDE间，然罕有称心之作。
 
 ![rainoffallingstar's GitHub stats](https://github-readme-stats.vercel.app/api?username=rainoffallingstar&show_icons=true&count_private=true&theme=vue)
   
 
 ---
 
-#### :bar_chart: Coding time in the last month
+#### :bar_chart: 妙手巧于复制，但愿天下总无bug之事情。
 
 <!--START_SECTION:waka-->
 
