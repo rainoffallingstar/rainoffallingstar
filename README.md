@@ -34,15 +34,14 @@ Wish you a good-looking profile README!
 - :hammer_and_wrench: Docker/Podman/Rstudio/VS Code/GitHub Action<br/>
 - :hearts: The Art of Zeteng/Slasher<br/>
 - :email: zyh3084989256@gmail.com<br/>
----
-#### 📈 一点微小的工作,绘光影于IDE间，然罕有称心之作。
+
+### 📈 一点微小的工作,绘光影于IDE间，然罕有称心之作。
 
 ![rainoffallingstar's GitHub stats](https://github-readme-stats.vercel.app/api?username=rainoffallingstar&show_icons=true&count_private=true&theme=vue)
   
 
----
 
-#### :bar_chart: 妙手巧于复制，但愿天下总无bug之事情。
+### :bar_chart: 妙手巧于复制，但愿天下总无bug之事情。
 
 <!--START_SECTION:waka-->
 
