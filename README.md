@@ -28,9 +28,6 @@ Wish you a good-looking profile README!
 -->
 
 ### Hi there 👋  
-<table  align="center" width="100%">
-<tr>
-<td valign="top">
 
 #### Hi，我是Yanhua Zheng,每日往来科研数据代码之间，试错不止。
 
@@ -40,22 +37,14 @@ Wish you a good-looking profile README!
 - :hearts: The Art of Zeteng/Slasher<br/>
 - :email: zyh3084989256@gmail.com<br/>
 
-</td>
-<td valign="top">
-
 #### 📈 一点微小的工作
 
 ![rainoffallingstar's GitHub stats](https://github-readme-stats.vercel.app/api?username=rainoffallingstar&show_icons=true&count_private=true&theme=vue)
   
-</td>
-</tr>
-<tr>
-<td valign="top">
-<table>
 
 ---
 
-### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
+#### :bar_chart: Coding time in the last month
 
 <!--START_SECTION:waka-->
 
