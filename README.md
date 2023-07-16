@@ -40,7 +40,7 @@ Wish you a good-looking profile README!
 
 ![rainoffallingstar's GitHub stats](https://github-readme-stats.vercel.app/api?username=rainoffallingstar&show_icons=true&count_private=true&theme=vue)
   
-### 🤾‍♂️ <a href="https://rainoffalingstar.github.io" target="_blank">旦有妙手偶得，自言自怡。</a>
+### 🤾‍♂️ <a href="https://rainoffallingstar.github.io" target="_blank">旦有妙手偶得，自言自怡。</a>
 
 <!-- START_SECTION:blog -->
 * <a href='http://rainoffallingstar.gitee.io/posts/2022/12/24/%E6%B8%A9%E6%95%852022.html' target='_blank'>温故2022</a> - Sat, 24 Dec 2022 00:00:00 +0800
