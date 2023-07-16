@@ -53,11 +53,11 @@ Wish you a good-looking profile README!
 ### 🩴 时而寻忧解难，流连风花雪月。
 
 <!-- START_SECTION:douban -->
-* <a href='http://movie.douban.com/subject/34894589/' target='_blank'>在看乘风破浪的姐姐 第一季</a> 🌟🌟🌟☆☆ 还行- 2021-01-23
-* <a href='http://movie.douban.com/subject/27073057/' target='_blank'>看过鼠胆英雄</a> 🌟🌟🌟🌟☆ 推荐- 2021-01-15
-* <a href='https://www.douban.com/location/drama/10944628/' target='_blank'>看过蝴蝶梦</a> 🌟🌟🌟🌟☆ 推荐- 2021-01-11
-* <a href='http://movie.douban.com/subject/10490568/' target='_blank'>看过蝴蝶梦</a> 🌟🌟🌟🌟☆ 推荐- 2021-01-11
-* <a href='http://www.douban.com/game/35316719/' target='_blank'>最近在玩天谕 手游</a> 🌟🌟🌟🌟🌟 力荐- 2021-01-10
+* <a href='https://book.douban.com/subject/36238805/' target='_blank'>想读两汉风云</a> - 2023-07-16
+* <a href='https://book.douban.com/subject/36157153/' target='_blank'>想读三国争霸（上、中、下）</a> - 2023-07-16
+* <a href='https://book.douban.com/subject/35260060/' target='_blank'>想读渤海小吏的封建脉络百战系列：楚汉双雄</a> - 2023-07-16
+* <a href='http://movie.douban.com/subject/35433177/' target='_blank'>在看战士 第三季</a> 🌟🌟🌟🌟☆ 推荐- 2023-07-16
+* <a href='http://movie.douban.com/subject/35660795/' target='_blank'>看过消失的她</a> 🌟🌟🌟🌟☆ 推荐- 2023-07-16
 <!-- END_SECTION:douban -->
 
 ### :bar_chart: 素手巧于复制，但愿天下总无bug之事。
