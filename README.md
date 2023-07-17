@@ -65,11 +65,12 @@ Wish you a good-looking profile README!
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 July 2023 - To: 15 July 2023
+From: 14 July 2023 - To: 16 July 2023
 
-Total Time: 4 mins
+Total Time: 2 hrs 34 mins
 
-YAML   4 mins          >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+R      2 hrs 7 mins    >>>>>>>>>>>>>>>>>>>>>----   82.54 %
+YAML   27 mins         >>>>---------------------   17.46 %
 ```
 
 <!--END_SECTION:waka-->
