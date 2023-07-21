@@ -65,12 +65,20 @@ Wish you a good-looking profile README!
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 July 2023 - To: 17 July 2023
+From: 14 July 2023 - To: 20 July 2023
 
-Total Time: 2 hrs 38 mins
+Total Time: 9 hrs 47 mins
 
-R      2 hrs 7 mins    >>>>>>>>>>>>>>>>>>>>-----   80.70 %
-YAML   30 mins         >>>>>--------------------   19.30 %
+YAML                  3 hrs 53 mins   >>>>>>>>>>---------------   39.78 %
+R                     3 hrs 51 mins   >>>>>>>>>>---------------   39.43 %
+Docker                37 mins         >>-----------------------   06.47 %
+Text                  25 mins         >------------------------   04.32 %
+Other                 25 mins         >------------------------   04.30 %
+CSV                   10 mins         -------------------------   01.79 %
+Git Config            10 mins         -------------------------   01.72 %
+Bash                  9 mins          -------------------------   01.70 %
+Debian Control file   1 min           -------------------------   00.29 %
+TeX                   0 secs          -------------------------   00.16 %
 ```
 
 <!--END_SECTION:waka-->
