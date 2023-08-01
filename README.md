@@ -53,11 +53,11 @@ Wish you a good-looking profile README!
 ### 🩴 时而寻忧解难，流连风花雪月。
 
 <!-- START_SECTION:douban -->
+* <a href='https://book.douban.com/subject/36314505/' target='_blank'>读过R for Data Science (2/e)</a> 🌟🌟🌟🌟🌟 力荐- 2023-07-31
+* <a href='https://book.douban.com/subject/35665005/' target='_blank'>想读慧超的旅行</a> - 2023-07-31
 * <a href='https://book.douban.com/subject/36328704/' target='_blank'>读过太白金星有点烦</a> 🌟🌟🌟🌟🌟 力荐- 2023-07-17
 * <a href='https://book.douban.com/subject/36193627/' target='_blank'>想读熊廷弼之死</a> - 2023-07-17
 * <a href='https://book.douban.com/subject/36238805/' target='_blank'>想读两汉风云</a> - 2023-07-16
-* <a href='https://book.douban.com/subject/36157153/' target='_blank'>想读三国争霸（上、中、下）</a> - 2023-07-16
-* <a href='https://book.douban.com/subject/35260060/' target='_blank'>想读渤海小吏的封建脉络百战系列：楚汉双雄</a> - 2023-07-16
 <!-- END_SECTION:douban -->
 
 ### :bar_chart: 素手巧于复制，但愿天下总无bug之事。
