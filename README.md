@@ -65,12 +65,12 @@ Wish you a good-looking profile README!
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 July 2023 - To: 14 September 2023
+From: 14 July 2023 - To: 15 September 2023
 
-Total Time: 32 hrs 6 mins
+Total Time: 32 hrs 7 mins
 
 Python                9 hrs 22 mins   >>>>>>>------------------   29.18 %
-R                     8 hrs 3 mins    >>>>>>-------------------   25.11 %
+R                     8 hrs 4 mins    >>>>>>-------------------   25.12 %
 YAML                  4 hrs 53 mins   >>>>---------------------   15.25 %
 Markdown              4 hrs 24 mins   >>>----------------------   13.72 %
 Text                  52 mins         >------------------------   02.74 %
