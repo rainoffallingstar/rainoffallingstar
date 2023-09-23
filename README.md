@@ -53,11 +53,11 @@ Wish you a good-looking profile README!
 ### 🩴 时而寻忧解难，流连风花雪月。
 
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/35981936/' target='_blank'>想看甲虫村</a> - 2023-09-23
 * <a href='https://book.douban.com/subject/36157153/' target='_blank'>读过三国争霸（上、中、下）</a> 🌟🌟🌟🌟☆ 推荐- 2023-09-03
 * <a href='https://book.douban.com/subject/36069426/' target='_blank'>读过大医·破晓篇</a> 🌟🌟🌟🌟🌟 力荐- 2023-08-31
 * <a href='https://book.douban.com/subject/35553393/' target='_blank'>读过Python and R for the Modern Data Scientist: The Best of Both Worlds</a> 🌟🌟🌟🌟☆ 推荐- 2023-08-19
 * <a href='https://book.douban.com/subject/25930025/' target='_blank'>读过只是为了好玩</a> 🌟🌟🌟🌟☆ 推荐- 2023-08-19
-* <a href='https://book.douban.com/subject/35017991/' target='_blank'>最近在读Modern Statistics for Modern Biology</a> 🌟🌟🌟🌟🌟 力荐- 2023-08-10
 <!-- END_SECTION:douban -->
 
 ### :bar_chart: 素手巧于复制，但愿天下总无bug之事。
