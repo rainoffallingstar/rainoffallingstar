@@ -53,7 +53,11 @@ Wish you a good-looking profile README!
 ### 🩴 时而寻忧解难，流连风花雪月。
 
 <!-- START_SECTION:douban -->
-
+* <a href='https://book.douban.com/subject/35638824/' target='_blank'>读过季風亞洲</a> 🌟☆☆☆☆ 很差- 2023-12-12
+* <a href='https://book.douban.com/subject/35006321/' target='_blank'>读过条顿骑士团</a> 🌟🌟🌟🌟☆ 推荐- 2023-12-11
+* <a href='https://book.douban.com/subject/26782012/' target='_blank'>读过医院骑士团全史</a> 🌟🌟🌟🌟🌟 力荐- 2023-12-09
+* <a href='https://book.douban.com/subject/34953797/' target='_blank'>读过圣殿骑士团</a> 🌟🌟🌟🌟🌟 力荐- 2023-12-09
+* <a href='https://book.douban.com/subject/25779298/' target='_blank'>最近在读利用Python进行数据分析</a> 🌟🌟🌟🌟🌟 力荐- 2023-12-08
 <!-- END_SECTION:douban -->
 
 ### :bar_chart: 素手巧于复制，但愿天下总无bug之事。
