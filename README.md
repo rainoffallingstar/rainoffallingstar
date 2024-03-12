@@ -53,11 +53,11 @@ Wish you a good-looking profile README!
 ### 🩴 时而寻忧解难，流连风花雪月。
 
 <!-- START_SECTION:douban -->
-* <a href='http://movie.douban.com/subject/35729990/' target='_blank'>在看万物生灵 第四季</a> 🌟🌟🌟🌟🌟 力荐- 2024-02-15
-* <a href='http://movie.douban.com/subject/36490335/' target='_blank'>看过家族荣誉：归来</a> 🌟🌟🌟🌟☆ 推荐- 2024-02-04
-* <a href='http://movie.douban.com/subject/36300768/' target='_blank'>看过别流淌呀，河水</a> 🌟🌟🌟🌟☆ 推荐- 2024-01-21
-* <a href='http://movie.douban.com/subject/35725869/' target='_blank'>看过年会不能停！</a> 🌟🌟🌟🌟🌟 力荐- 2024-01-21
-* <a href='https://book.douban.com/subject/35167966/' target='_blank'>读过无法直面的人生</a> 🌟🌟🌟🌟🌟 力荐- 2024-01-09
+* <a href='http://movie.douban.com/subject/24882570/' target='_blank'>想看托尔金：中土的起源</a> - 2024-03-11
+* <a href='http://movie.douban.com/subject/1291552/' target='_blank'>看过指环王3：王者无敌</a> 🌟🌟🌟🌟🌟 力荐- 2024-03-10
+* <a href='http://movie.douban.com/subject/1291572/' target='_blank'>看过指环王2：双塔奇兵</a> 🌟🌟🌟🌟🌟 力荐- 2024-03-10
+* <a href='http://movie.douban.com/subject/1291571/' target='_blank'>看过指环王1：护戒使者</a> 🌟🌟🌟🌟🌟 力荐- 2024-03-08
+* <a href='http://movie.douban.com/subject/2973079/' target='_blank'>看过霍比特人3：五军之战</a> 🌟🌟🌟🌟🌟 力荐- 2024-03-08
 <!-- END_SECTION:douban -->
 
 ### :bar_chart: 素手巧于复制，但愿天下总无bug之事。
