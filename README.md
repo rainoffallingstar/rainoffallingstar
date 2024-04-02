@@ -43,11 +43,11 @@ Wish you a good-looking profile README!
 ### 🤾‍♂️ <a href="https://rainoffallingstar.github.io" target="_blank">旦有妙手偶得，自言自怡。</a>
 
 <!-- START_SECTION:blog -->
+* <a href='http://rainoffallingstar.gitee.io/posts/2024/04/02/%E8%A1%80%E6%B6%B2%E7%A7%91%E7%94%A8%E8%8D%AF%E5%8A%A9%E6%89%8B%E7%9A%84%E7%BC%98%E8%B5%B7%E4%B8%8E%E6%88%90%E5%9E%8B.html' target='_blank'>血液科用药助手的缘起与成型</a> - 
+* <a href='http://rainoffallingstar.gitee.io/posts/2024/01/12/%E6%97%A0%E9%A2%98%E4%BA%8C%E9%A6%96.html' target='_blank'>无题二首</a> - Fri, 12 Jan 2024 00:00:00 +0800
+* <a href='http://rainoffallingstar.gitee.io/posts/2023/12/24/%E9%80%A0%E8%A1%80%E5%B9%B2%E7%BB%86%E8%83%9E%E7%A7%BB%E6%A4%8D%E6%9C%AF%E5%90%8E%E5%B7%A8%E7%BB%86%E8%83%9E%E7%97%85%E6%AF%92%E8%82%BA%E7%82%8E%E7%9A%84%E7%8E%B0%E7%8A%B6%E4%B8%8E%E8%BF%9B%E5%B1%95.html' target='_blank'>造血干细胞移植术后巨细胞病毒肺炎的现状与进展</a> - Sun, 24 Dec 2023 00:00:00 +0800
 * <a href='http://rainoffallingstar.gitee.io/posts/2022/12/24/%E6%B8%A9%E6%95%852022.html' target='_blank'>温故2022</a> - Sat, 24 Dec 2022 00:00:00 +0800
 * <a href='http://rainoffallingstar.gitee.io/posts/2022/12/03/CMU%E7%BB%84%E8%9B%8B%E7%99%BD%E4%BF%AE%E9%A5%B0%E8%AE%B2%E4%B9%89.html' target='_blank'>组蛋白修饰与表观遗传学讲义</a> - Sat, 03 Dec 2022 00:00:00 +0800
-* <a href='http://rainoffallingstar.gitee.io/posts/2022/12/01/%E5%85%B3%E4%BA%8E%E5%9F%BA%E5%9B%A0%E7%BB%84%E8%BD%AC%E5%BD%95%E7%BB%84%E5%8F%8A%E8%9B%8B%E7%99%BD%E8%B4%A8%E7%BB%84%E5%AD%A6%E7%9A%84%E7%BD%91%E7%BB%9C%E5%88%86%E6%9E%90.html' target='_blank'>关于基因组、转录组及蛋白质组学的网络分析</a> - 
-* <a href='http://rainoffallingstar.gitee.io/posts/2022/11/04/Workflow-Machine-Learning-with-Radio-mics.html' target='_blank'>2022-11-04-Workflow Machine Learning with Radio-mics</a> - Fri, 04 Nov 2022 00:00:00 +0800
-* <a href='http://rainoffallingstar.gitee.io/posts/2022/09/20/awesom-eGNNwithmedical.html' target='_blank'>aweGNN with medical data science</a> - 
 <!-- END_SECTION:blog -->
 
 ### 🩴 时而寻忧解难，流连风花雪月。
