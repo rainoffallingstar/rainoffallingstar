@@ -53,11 +53,11 @@ Wish you a good-looking profile README!
 ### 🩴 时而寻忧解难，流连风花雪月。
 
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/26925611/' target='_blank'>看过你想活出怎样的人生</a> 🌟🌟🌟🌟🌟 力荐- 2024-04-04
 * <a href='https://music.douban.com/subject/26981519/' target='_blank'>听过Something Just Like This</a> - 2024-03-30
 * <a href='https://music.douban.com/subject/24748244/' target='_blank'>听过时间煮雨</a> - 2024-03-30
 * <a href='https://music.douban.com/subject/30427175/' target='_blank'>听过起风了</a> - 2024-03-30
 * <a href='https://music.douban.com/subject/24847484/' target='_blank'>听过山丘</a> - 2024-03-30
-* <a href='https://music.douban.com/subject/27625355/' target='_blank'>听过无问西东</a> - 2024-03-30
 <!-- END_SECTION:douban -->
 
 ### :bar_chart: 素手巧于复制，但愿天下总无bug之事。
