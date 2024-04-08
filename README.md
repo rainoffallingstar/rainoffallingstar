@@ -53,11 +53,11 @@ Wish you a good-looking profile README!
 ### 🩴 时而寻忧解难，流连风花雪月。
 
 <!-- START_SECTION:douban -->
+* <a href='https://book.douban.com/subject/26928780/' target='_blank'>读过世界咖啡学</a> 🌟🌟🌟🌟☆ 推荐- 2024-04-08
+* <a href='https://book.douban.com/subject/24845512/' target='_blank'>读过左手咖啡，右手世界</a> 🌟🌟🌟🌟☆ 推荐- 2024-04-08
+* <a href='https://book.douban.com/subject/35030378/' target='_blank'>读过海镜神风</a> 🌟🌟🌟☆☆ 还行- 2024-04-08
+* <a href='https://book.douban.com/subject/6265773/' target='_blank'>读过巨龙的颂歌</a> 🌟🌟🌟🌟☆ 推荐- 2024-04-08
 * <a href='https://book.douban.com/subject/35635631/' target='_blank'>读过匏瓜</a> 🌟🌟🌟🌟🌟 力荐- 2024-04-07
-* <a href='http://movie.douban.com/subject/26925611/' target='_blank'>看过你想活出怎样的人生</a> 🌟🌟🌟🌟🌟 力荐- 2024-04-04
-* <a href='https://music.douban.com/subject/26981519/' target='_blank'>听过Something Just Like This</a> - 2024-03-30
-* <a href='https://music.douban.com/subject/24748244/' target='_blank'>听过时间煮雨</a> - 2024-03-30
-* <a href='https://music.douban.com/subject/30427175/' target='_blank'>听过起风了</a> - 2024-03-30
 <!-- END_SECTION:douban -->
 
 ### :bar_chart: 素手巧于复制，但愿天下总无bug之事。
