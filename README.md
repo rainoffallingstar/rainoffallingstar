@@ -43,21 +43,17 @@ Wish you a good-looking profile README!
 ### 🤾‍♂️ <a href="https://rainoffallingstar.github.io" target="_blank">旦有妙手偶得，自言自怡。</a>
 
 <!-- START_SECTION:blog -->
+* <a href='http://rainoffallingstar.gitee.io/posts/2024/04/10/%E6%9C%80%E8%BF%91%E5%AF%B9%E5%B1%80%E8%B5%8F.html' target='_blank'>最近对局赏</a> - Wed, 10 Apr 2024 00:00:00 +0800
+* <a href='http://rainoffallingstar.gitee.io/posts/2024/04/10/%E4%B8%AD%E5%9B%BD%E5%9B%B4%E6%A3%8B%E5%8F%A4%E8%B0%B1%E5%B8%B8%E8%A7%81%E5%B1%80%E9%9D%A2%E7%A0%94%E7%A9%B6.html' target='_blank'>中国围棋古谱常见局面研究</a> - Wed, 10 Apr 2024 00:00:00 +0800
 * <a href='http://rainoffallingstar.gitee.io/posts/2024/04/02/%E8%A1%80%E6%B6%B2%E7%A7%91%E7%94%A8%E8%8D%AF%E5%8A%A9%E6%89%8B%E7%9A%84%E7%BC%98%E8%B5%B7%E4%B8%8E%E6%88%90%E5%9E%8B.html' target='_blank'>血液科用药助手的缘起与成型</a> - 
 * <a href='http://rainoffallingstar.gitee.io/posts/2024/01/12/%E6%97%A0%E9%A2%98%E4%BA%8C%E9%A6%96.html' target='_blank'>无题二首</a> - Fri, 12 Jan 2024 00:00:00 +0800
 * <a href='http://rainoffallingstar.gitee.io/posts/2023/12/25/%E6%B8%A9%E6%95%852023.html' target='_blank'>温故2023</a> - Mon, 25 Dec 2023 00:00:00 +0800
-* <a href='http://rainoffallingstar.gitee.io/posts/2023/12/24/%E9%80%A0%E8%A1%80%E5%B9%B2%E7%BB%86%E8%83%9E%E7%A7%BB%E6%A4%8D%E6%9C%AF%E5%90%8E%E5%B7%A8%E7%BB%86%E8%83%9E%E7%97%85%E6%AF%92%E8%82%BA%E7%82%8E%E7%9A%84%E7%8E%B0%E7%8A%B6%E4%B8%8E%E8%BF%9B%E5%B1%95.html' target='_blank'>造血干细胞移植术后巨细胞病毒肺炎的现状与进展</a> - Sun, 24 Dec 2023 00:00:00 +0800
-* <a href='http://rainoffallingstar.gitee.io/posts/2022/12/24/%E6%B8%A9%E6%95%852022.html' target='_blank'>温故2022</a> - Sat, 24 Dec 2022 00:00:00 +0800
 <!-- END_SECTION:blog -->
 
 ### 🩴 时而寻忧解难，流连风花雪月。
 
 <!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/30448491/' target='_blank'>读过春夜十话</a> 🌟🌟🌟🌟🌟 力荐- 2024-04-10
-* <a href='https://book.douban.com/subject/30231515/' target='_blank'>读过码农翻身</a> 🌟🌟🌟☆☆ 还行- 2024-04-10
-* <a href='https://book.douban.com/subject/27024199/' target='_blank'>读过南明史</a> 🌟🌟🌟🌟☆ 推荐- 2024-04-09
-* <a href='https://book.douban.com/subject/1638874/' target='_blank'>读过徐根宝如是说</a> 🌟🌟☆☆☆ 较差- 2024-04-09
-* <a href='https://book.douban.com/subject/26928780/' target='_blank'>读过世界咖啡学</a> 🌟🌟🌟🌟☆ 推荐- 2024-04-08
+
 <!-- END_SECTION:douban -->
 
 ### :bar_chart: 素手巧于复制，但愿天下总无bug之事。
