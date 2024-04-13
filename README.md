@@ -53,11 +53,11 @@ Wish you a good-looking profile README!
 ### 🩴 时而寻忧解难，流连风花雪月。
 
 <!-- START_SECTION:douban -->
+* <a href='https://book.douban.com/subject/36710597/' target='_blank'>读过食南之徒</a> 🌟🌟🌟🌟☆ 推荐- 2024-04-13
 * <a href='https://book.douban.com/subject/30448491/' target='_blank'>读过春夜十话</a> 🌟🌟🌟🌟🌟 力荐- 2024-04-10
 * <a href='https://book.douban.com/subject/30231515/' target='_blank'>读过码农翻身</a> 🌟🌟🌟☆☆ 还行- 2024-04-10
 * <a href='https://book.douban.com/subject/27024199/' target='_blank'>读过南明史</a> 🌟🌟🌟🌟☆ 推荐- 2024-04-09
 * <a href='https://book.douban.com/subject/1638874/' target='_blank'>读过徐根宝如是说</a> 🌟🌟☆☆☆ 较差- 2024-04-09
-* <a href='https://book.douban.com/subject/26928780/' target='_blank'>读过世界咖啡学</a> 🌟🌟🌟🌟☆ 推荐- 2024-04-08
 <!-- END_SECTION:douban -->
 
 ### :bar_chart: 素手巧于复制，但愿天下总无bug之事。
