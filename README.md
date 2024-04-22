@@ -28,7 +28,7 @@ Wish you a good-looking profile README!
 -->
 
 ### Hi there 👋 ，我是Yanhua Zheng,每日往来科研数据代码之间，试错不止。
-
+<img src="https://github.com/rainoffallingstar/rainoffallingstar/blob/master/all.png" height="200" align="right"/>
 - :briefcase: Low level Coder,interest in deeplearning,machine learning and shinyApps<br/>
 - :pencil2: R/Shell/Python<br/>
 - :hammer_and_wrench: Docker/Podman/Rstudio/VS Code/GitHub Action<br/>
