@@ -53,11 +53,7 @@ Wish you a good-looking profile README!
 ### 🩴 时而寻忧解难，流连风花雪月。
 
 <!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/36238805/' target='_blank'>读过两汉风云</a> 🌟🌟🌟🌟🌟 力荐- 2024-04-16
-* <a href='https://book.douban.com/subject/36805181/' target='_blank'>最近在读南北归一</a> 🌟🌟🌟🌟🌟 力荐- 2024-04-16
-* <a href='https://book.douban.com/subject/35260060/' target='_blank'>读过渤海小吏的封建脉络百战系列：楚汉双雄</a> 🌟🌟🌟🌟🌟 力荐- 2024-04-16
-* <a href='https://book.douban.com/subject/36580731/' target='_blank'>读过两晋悲歌</a> 🌟🌟🌟🌟🌟 力荐- 2024-04-16
-* <a href='https://book.douban.com/subject/36710597/' target='_blank'>读过食南之徒</a> 🌟🌟🌟🌟☆ 推荐- 2024-04-13
+
 <!-- END_SECTION:douban -->
 
 ### :bar_chart: 素手巧于复制，但愿天下总无bug之事。
