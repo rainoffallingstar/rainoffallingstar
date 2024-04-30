@@ -43,11 +43,7 @@ Wish you a good-looking profile README!
 ### 🤾‍♂️ <a href="https://rainoffallingstar.github.io" target="_blank">旦有妙手偶得，自言自怡。</a>
 
 <!-- START_SECTION:blog -->
-* <a href='http://rainoffallingstar.gitee.io/posts/2024/04/10/%E6%9C%80%E8%BF%91%E5%AF%B9%E5%B1%80%E8%B5%8F.html' target='_blank'>最近对局赏</a> - Wed, 10 Apr 2024 00:00:00 +0800
-* <a href='http://rainoffallingstar.gitee.io/posts/2024/04/10/%E4%B8%AD%E5%9B%BD%E5%9B%B4%E6%A3%8B%E5%8F%A4%E8%B0%B1%E5%B8%B8%E8%A7%81%E5%B1%80%E9%9D%A2%E7%A0%94%E7%A9%B6.html' target='_blank'>中国围棋古谱常见局面研究</a> - Wed, 10 Apr 2024 00:00:00 +0800
-* <a href='http://rainoffallingstar.gitee.io/posts/2024/04/02/%E8%A1%80%E6%B6%B2%E7%A7%91%E7%94%A8%E8%8D%AF%E5%8A%A9%E6%89%8B%E7%9A%84%E7%BC%98%E8%B5%B7%E4%B8%8E%E6%88%90%E5%9E%8B.html' target='_blank'>血液科用药助手的缘起与成型</a> - 
-* <a href='http://rainoffallingstar.gitee.io/posts/2024/01/12/%E6%97%A0%E9%A2%98%E4%BA%8C%E9%A6%96.html' target='_blank'>无题二首</a> - Fri, 12 Jan 2024 00:00:00 +0800
-* <a href='http://rainoffallingstar.gitee.io/posts/2023/12/25/%E6%B8%A9%E6%95%852023.html' target='_blank'>温故2023</a> - Mon, 25 Dec 2023 00:00:00 +0800
+
 <!-- END_SECTION:blog -->
 
 ### 🩴 时而寻忧解难，流连风花雪月。
