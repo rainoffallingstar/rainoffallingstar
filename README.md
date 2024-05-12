@@ -49,11 +49,11 @@ Wish you a good-looking profile README!
 ### 🩴 时而寻忧解难，流连风花雪月。
 
 <!-- START_SECTION:douban -->
+* <a href='https://book.douban.com/subject/25723646/' target='_blank'>读过钦口说：我眼中的德云社</a> 🌟🌟🌟🌟☆ 推荐- 2024-05-12
 * <a href='https://book.douban.com/subject/25897657/' target='_blank'>读过悲惨世界</a> 🌟🌟🌟🌟🌟 力荐- 2024-05-08
 * <a href='https://book.douban.com/subject/35888701/' target='_blank'>读过饥饿的盛世</a> 🌟🌟🌟🌟🌟 力荐- 2024-05-08
-* <a href='http://movie.douban.com/subject/30291334/' target='_blank'>想看幕府将军</a> - 2024-05-01
+* <a href='http://movie.douban.com/subject/30291334/' target='_blank'>想看幕府将军 第一季</a> - 2024-05-01
 * <a href='https://book.douban.com/subject/36805181/' target='_blank'>读过南北归一</a> 🌟🌟🌟🌟🌟 力荐- 2024-04-24
-* <a href='https://book.douban.com/subject/36238805/' target='_blank'>读过两汉风云</a> 🌟🌟🌟🌟🌟 力荐- 2024-04-16
 <!-- END_SECTION:douban -->
 
 ### :bar_chart: 素手巧于复制，但愿天下总无bug之事。
