@@ -49,11 +49,11 @@ Wish you a good-looking profile README!
 ### 🩴 时而寻忧解难，流连风花雪月。
 
 <!-- START_SECTION:douban -->
+* <a href='https://book.douban.com/subject/27173866/' target='_blank'>读过颠覆者</a> 🌟🌟🌟☆☆ 还行- 2024-09-14
 * <a href='https://book.douban.com/subject/36574408/' target='_blank'>读过大变局</a> 🌟🌟🌟🌟🌟 力荐- 2024-09-01
 * <a href='https://book.douban.com/subject/1448712/' target='_blank'>读过指环王与哲学</a> 🌟🌟🌟🌟☆ 推荐- 2024-08-31
 * <a href='https://book.douban.com/subject/25957852/' target='_blank'>读过精灵宝钻</a> 🌟🌟🌟🌟🌟 力荐- 2024-08-31
 * <a href='http://movie.douban.com/subject/36587908/' target='_blank'>想看叶卡捷琳娜大帝 第四季</a> - 2024-08-20
-* <a href='http://movie.douban.com/subject/36463483/' target='_blank'>看过白蛇：浮生</a> 🌟🌟🌟🌟🌟 力荐- 2024-08-10
 <!-- END_SECTION:douban -->
 
 ### :bar_chart: 素手巧于复制，但愿天下总无bug之事。
