@@ -49,11 +49,11 @@ Wish you a good-looking profile README!
 ### 🩴 时而寻忧解难，流连风花雪月。
 
 <!-- START_SECTION:douban -->
+* <a href='https://book.douban.com/subject/26364378/' target='_blank'>读过Bioinformatics Data Skills</a> 🌟🌟🌟🌟🌟 力荐- 2024-09-18
 * <a href='https://book.douban.com/subject/4842446/' target='_blank'>想读巨流河</a> - 2024-09-17
 * <a href='https://book.douban.com/subject/30191971/' target='_blank'>读过契诃夫的一生</a> 🌟🌟🌟🌟🌟 力荐- 2024-09-17
 * <a href='http://movie.douban.com/subject/26338832/' target='_blank'>想看安东契科夫的1890</a> - 2024-09-17
 * <a href='https://book.douban.com/subject/27173866/' target='_blank'>读过颠覆者</a> 🌟🌟🌟☆☆ 还行- 2024-09-14
-* <a href='https://book.douban.com/subject/36574408/' target='_blank'>读过大变局</a> 🌟🌟🌟🌟🌟 力荐- 2024-09-01
 <!-- END_SECTION:douban -->
 
 ### :bar_chart: 素手巧于复制，但愿天下总无bug之事。
