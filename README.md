@@ -49,11 +49,11 @@ Wish you a good-looking profile README!
 ### 🩴 时而寻忧解难，流连风花雪月。
 
 <!-- START_SECTION:douban -->
+* <a href='https://book.douban.com/subject/30488936/' target='_blank'>读过给所有人的黑塞童话</a> 🌟🌟🌟🌟🌟 力荐- 2024-11-25
+* <a href='https://book.douban.com/subject/36699839/' target='_blank'>读过三国前夜</a> 🌟🌟🌟🌟🌟 力荐- 2024-11-25
 * <a href='http://movie.douban.com/subject/36731231/' target='_blank'>看过万物生灵 第五季</a> 🌟🌟🌟🌟🌟 力荐- 2024-11-18
 * <a href='http://movie.douban.com/subject/36085524/' target='_blank'>看过影后</a> 🌟🌟🌟🌟🌟 力荐- 2024-11-18
 * <a href='https://book.douban.com/subject/10568642/' target='_blank'>想读朱彝尊词集</a> - 2024-11-08
-* <a href='http://movie.douban.com/subject/26235647/' target='_blank'>想看他们在岛屿写作：如歌的行板</a> - 2024-11-06
-* <a href='http://movie.douban.com/subject/5969389/' target='_blank'>想看他们在岛屿写作：化城再来人</a> - 2024-11-06
 <!-- END_SECTION:douban -->
 
 ### :bar_chart: 素手巧于复制，但愿天下总无bug之事。
