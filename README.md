@@ -49,7 +49,11 @@ Wish you a good-looking profile README!
 ### 🩴 时而寻忧解难，流连风花雪月。
 
 <!-- START_SECTION:douban -->
-
+* <a href='https://book.douban.com/subject/36467141/' target='_blank'>读过即使不努力</a> 🌟🌟🌟🌟☆ 推荐- 2025-02-11
+* <a href='https://book.douban.com/subject/26791192/' target='_blank'>读过各在天一涯</a> 🌟🌟🌟🌟🌟 力荐- 2025-02-11
+* <a href='https://book.douban.com/subject/26785340/' target='_blank'>读过金刚经说什么</a> 🌟🌟🌟🌟🌟 力荐- 2025-02-11
+* <a href='https://book.douban.com/subject/34991896/' target='_blank'>读过最伟大的骑士</a> 🌟🌟🌟🌟🌟 力荐- 2025-01-17
+* <a href='https://book.douban.com/subject/30390669/' target='_blank'>读过阿登之战</a> 🌟🌟🌟🌟🌟 力荐- 2025-01-13
 <!-- END_SECTION:douban -->
 
 ### :bar_chart: 素手巧于复制，但愿天下总无bug之事。
