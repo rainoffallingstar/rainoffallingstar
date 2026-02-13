@@ -61,7 +61,7 @@ Wish you a good-looking profile README!
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 July 2023 - To: 11 February 2026
+From: 14 July 2023 - To: 12 February 2026
 
 Total Time: 32 hrs 21 mins
 
